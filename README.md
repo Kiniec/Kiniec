@@ -7,7 +7,7 @@
 
 ```
 
-- 👀 I’m interested in contribute to community projects and obtaining an AWS Solution Architect Professional certification.
+- 👀 I’m interested in contributing to community projects and obtaining an AWS Solution Architect Professional certification.
 
 
 - 🌱 I’m currently working as an IT Project Cordinator. I am currently working on AWS Developer Associate and Data Engineer certification.
